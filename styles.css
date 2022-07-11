@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    font-family: 'Oxygen', sans-serif;
+    background-color: black;
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 20px;
+    border-color: rgb(34, 29, 29);
+    width: 8%;
+}
+
+.skill-row{
+    color:beige;
+    line-height: 2;
+    text-align: center left;
+    margin: 100px;
+}
+
+.skills{
+    padding: 0px 200px 0px 200px;
+    margin-top: 0px;
+}
+
+.icon-html{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;  
+}
+.globo{
+    position: absolute;
+    margin: 0%;
+    top: -250px;
+    width: 685px;
+    height: 685px;
+    left: 800px;
+
+}
+
+.camaleao{
+    width: 200px;
+    height: 200px;
+    float: right;
+    right: 30px;
+    position: relative;
+    
+}
+.cabeçalho{
+   background-color: black;
+    position: absolute;
+    left: 0px;
+    top: 250px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.cabeçalho2{
+    color:beige;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    left:200px;
+
+}
+.middle-container{
+    position: relative;
+    margin-top: 0;
+    top: 685px;
+    padding: 0pxS;
+}
+.eu{
+    height: 300px;
+    width: 300px;
+}
+
+.profile{
+    color: beige;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 20px;
+    padding: 100px;
+}
+
+.bottom-container{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+}
